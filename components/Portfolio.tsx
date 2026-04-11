@@ -39,7 +39,11 @@ export default function Portfolio() {
           <h3 className="text-2xl font-bold mb-2">Sayan Ray</h3>
           <p className="font-mono text-xs text-[#FF00FF] mb-6 uppercase tracking-widest">Student..ECE..Embedded..VLSI.. // Kolkata, West Bengal, India</p>
           <p className="text-gray-300 leading-relaxed max-w-3xl text-justify">
-           Hello! I&apos;m  I'm Sayan Ray, a B.Tech graduate in Electronics and Communication Engineering, currently pursuing my M.Tech in Embedded System and VLSI Design at Maulana Abul Kalam Azad University of Technology. With a strong foundation in electronics and hands-on experience in embedded systems, IoT, and VLSI, I am passionate about developing innovative solutions that bridge hardware and software.
+          <p className="text-gray-300 leading-relaxed max-w-3xl text-justify">
+  Hello! I am Sayan Ray, a B.Tech graduate in Electronics and Communication Engineering, currently pursuing my M.Tech in Embedded System and VLSI Design at Maulana Abul Kalam Azad University of Technology, West Bengal.
+  <br/><br/>
+  I enjoy problem-solving, collaborating in teams, and contributing to projects that push the boundaries of technology. Always eager to learn and grow, I look forward to opportunities where I can make a meaningful impact.
+</p>
             <br/><br/>
             I enjoy problem-solving, collaborating in teams, and contributing to projects that push the boundaries of technology. Always eager to learn and grow, I look forward to opportunities where I can apply my skills and make a meaningful impact.
           </p>
