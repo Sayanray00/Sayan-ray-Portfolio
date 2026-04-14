@@ -18,7 +18,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: 'NEURAL_OS_v2.0',
+  title: 'Sayan Ray Profile',
   description: 'Personal portfolio website',
 };
 
